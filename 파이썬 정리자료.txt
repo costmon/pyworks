@@ -32,3 +32,18 @@ if문
 파일 입,출력
 텍스트 파일 - .txt, 문자 기반
 바이너리 파일 - 이미지 파일,영상 파일
+
+모듈(module) - customer.py > 라이브러리
+프레임워크(Framework) - 모듈,라이브러리가 이미 제공
+-사용자가 작업하는 도구
+
+주로 사용하는 파이썬 방식
+-method 방식
+-GET 방식, 포스트 방식
+
+파이썬 모듈 프로그램- flask 
+
+flask --version - 버전확인
+
+pip install flask - 플라스크 인스톨
+pip install --upgrade pip - 프로그램 업그레이드
