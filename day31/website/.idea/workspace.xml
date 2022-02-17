@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd6a8902-6db1-4b2a-a138-358f09a8ec1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/coffee-blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/coffee-gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/main_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/calc_result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/even_odd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/memberlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day30/db/tbl_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day30/db/tbl_book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/loop_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/loop_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/season.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/season.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../파이썬 정리자료.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../파이썬 정리자료.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="25Di8FUnjbfRupc3SCf7MVd0lUc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../projects/member" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd6a8902-6db1-4b2a-a138-358f09a8ec1d" name="Changes" comment="" />
+      <created>1645067896757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645067896757</updated>
+    </task>
+    <servers />
+  </component>
+</project>

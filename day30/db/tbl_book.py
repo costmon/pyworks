@@ -80,5 +80,5 @@ if __name__ == "__main__":
     #insert_book()
     #select_one()
     #update_book()
-    delete_book()
+    #delete_book()
     select_book()
