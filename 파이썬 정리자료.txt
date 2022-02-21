@@ -68,3 +68,26 @@ flaskweb>python -m veny
 flaskweb>Scripts
 Scripts>activate
 Scripts>pip install flask - 플라스크 인스톨!
+
+
+웹 사이트 
+프레임워크 사용
+파이썬 - 플라스크(소규모,sql),장고(기업,업무용,클래스)
+회원관리, 게시판 관리, 파일 업로드, 댓글, 페이지 처리
+
+규칙
+1. url 겅로('/register') -> app.py
+2. 제어함수 -def register() -> .html 페이지 로딩, db처리 -> app.py
+3. 탬플릿(templates) -> html(css,javascript)
+4. static -> css, javascript, image
+
+파이썬 탬플릿 태그 - 출력: {{ }} , 명령어 처리 : {% %}
+
+웹에서 요청 방식 - get / post
+get - 웹페이지 오픈(연결): 주소표시줄에 출력
+post - 데이터 전송(보안): 주소표시줄에 보이지 않음
+
+유효성 검사(제약을 걸어서 입력을 제대로 하는 검사), 보안
+폼(form)에서
+글자수, 영,숫자 포함, 공뱍 처리
+정규표현식 
