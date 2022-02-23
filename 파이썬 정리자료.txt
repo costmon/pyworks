@@ -47,6 +47,7 @@ flask --version - 버전확인
 
 pip install flask - 플라스크 인스톨
 pip install --upgrade pip - 프로그램 업그레이드
+pip install "" - 모듈,프로그램 인스톨하는 키
 
 웹 서버 가동 - app.py
 from flask import Flask,render_template
