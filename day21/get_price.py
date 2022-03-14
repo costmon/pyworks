@@ -6,7 +6,7 @@ def get_price(unit_price, quantity):  #(단위당 가격, 수량)
     delivery_fee = 2500   #배송비
     price = unit_price * quantity  #상품 주문 가격 = 단위당 가격 x 수량
     if price < 20000:
-        price = price +  delivery_fee
+        price = price + delivery_fee
     else:
         price
     return price
