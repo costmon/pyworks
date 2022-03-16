@@ -17,4 +17,13 @@ for i in k:
 print('*' * 30)
 
 # 방법 for in range()
+n = len(k)
+for i in range(0, n):
+    if k[i] >= 70:
+        result = "1급"
+    elif k[i] >= 60:
+        result = "2급"
+    else:
+        result = "불합격"
+    print("{}번 학생은 {}입니다.".format(i+1, result))
 
